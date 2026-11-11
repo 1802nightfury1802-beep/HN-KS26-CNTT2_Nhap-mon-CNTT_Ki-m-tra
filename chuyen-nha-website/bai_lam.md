@@ -93,6 +93,17 @@ d-----        11/11/2026   1:31 PM                web
 2026-10-28 09:05:46 GET /tin-tuc status=404
 
 
+
+
+Count    : 6
+Average  : 
+Sum      : 
+Maximum  : 
+Minimum  : 
+Property : 
+
+
+
 ```
 
 ## 4.5. README.md và bảo vệ thông tin bí mật

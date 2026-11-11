@@ -16,7 +16,7 @@ Get-ChildItem -Recurse -Force
 ```
 Tasklist:
 
-[x] sắp xếp thư mục dự án
+[x] sấp xếp thư mục dự án
 
 [] Upload dự án lên Github
 
